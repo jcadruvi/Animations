@@ -28,3 +28,4 @@ D:\github\Animations\Animations.Site\bin\Newtonsoft.Json.xml
 D:\github\Animations\Animations.Site\bin\ru-ru\BundleTransformer.Core.resources.dll
 D:\github\Animations\Animations.Site\obj\Debug\Mvc4.dll
 D:\github\Animations\Animations.Site\obj\Debug\Mvc4.pdb
+D:\github\Animations\Animations.Site\obj\Debug\Animations.Site.csprojResolveAssemblyReference.cache
